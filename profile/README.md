@@ -32,4 +32,3 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
     </div>
   </div>
 </footer>
-
