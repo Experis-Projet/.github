@@ -28,7 +28,7 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
       <img src="https://holbertonschool.uy/wp-content/themes/holberton/assets/img/logo.png" alt="Holberton Logo" style="width: 100px;">
     </div>
     <div style="width: 50%; text-align: center;">
-      <img src="https://www.google.com/imgres?q=experis&imgurl=https%3A%2F%2Fexperis.com.uy%2Fwps%2Fwcm%2Fconnect%2Fexperis%2F7130f828-e966-4342-854e-1a6adf7505b2%2FEXP_BE_Logo_SS_HOR_MC_RGB_REG-1.png%3FMOD%3DAJPERES%26CACHEID%3DROOTWORKSPACE.Z18_2802IK01OORA70QUFIPQ192LN7-7130f828-e966-4342-854e-1a6adf7505b2-ouqEocc&imgrefurl=https%3A%2F%2Fwww.experis.com.uy%2F&docid=AvA4rZPTyaZhKM&tbnid=6c-Dscc3rW0BJM&vet=12ahUKEwi9tpr5uoGGAxXOq5UCHc1LAokQM3oECBcQAA..i&w=437&h=163&hcb=2&ved=2ahUKEwi9tpr5uoGGAxXOq5UCHc1LAokQM3oECBcQAA" alt="Experis Logo" style="width: 150px;">
+      <img src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Experis Logo" style="width: 150px;">
     </div>
   </div>
 </footer>
