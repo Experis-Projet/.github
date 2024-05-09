@@ -1,25 +1,24 @@
-# Bienvenidos a RelIT 🚀
+# Welcome to RelIT 🚀
 
-## Acerca de nosotros
+## About us
 
-RelIT es una organización creada con el propósito de trabajar en el proyecto final de Holberton School. Nos embarcamos en esta aventura con la empresa Experis de ManpowerGroup, uniendo fuerzas para desarrollar soluciones innovadoras y efectivas.
+RelIT is an organization created for the purpose of working on Holberton School's final project. We embarked on this adventure with the ManpowerGroup company Experis, joining forces to develop innovative and effective solutions.
 
-## Nuestro equipo
+## Our team
 
-Estamos compuestos por 8 integrantes dedicados y comprometidos con este proyecto. Cada uno de nosotros trae a la mesa habilidades y experiencias únicas, trabajando juntos para alcanzar nuestros objetivos.
+We are made up of 8 dedicated members committed to this project. Each of us brings unique skills and experiences to the table, working together to achieve our goals.
 
-## Misión
+## Mission
 
-Nuestra misión es transformar ideas en soluciones reales, contribuyendo al crecimiento y éxito de Experis de ManpowerGroup. Creemos en el poder de la colaboración y la innovación para crear impacto positivo.
+Our mission is to transform ideas into real solutions, contributing to the growth and success of Experis by ManpowerGroup. We believe in the power of collaboration and innovation to create positive impact.
 
-## Visión
+## Vision
 
-Aspiramos a ser líderes en el desarrollo de proyectos tecnológicos, impulsando la innovación y la eficiencia en todas nuestras iniciativas. Queremos dejar un legado de trabajo de alta calidad y contribuir significativamente a nuestro campo.
+We aspire to be leaders in the development of technological projects, promoting innovation and efficiency in all our initiatives. We want to leave a legacy of high-quality work and contribute significantly to our field.
 
-## Contacto
+## Contact
 
-Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre nuestro proyecto, no dudes en contactarnos. Estamos abiertos a nuevas ideas y colaboraciones.
-
+If you are interested in joining us or simply want to know more about our project, do not hesitate to contact us. We are open to new ideas and collaborations.
 ---
 
 <img align="right" src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Logo Holberton" width="200">
