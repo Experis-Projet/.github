@@ -19,6 +19,7 @@ We aspire to be leaders in the development of technological projects, promoting 
 ## Contact
 
 If you are interested in joining us or simply want to know more about our project, do not hesitate to contact us. We are open to new ideas and collaborations.
+
 ---
 
 <img align="right" src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Logo Holberton" width="200">
