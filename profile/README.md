@@ -22,14 +22,6 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
 
 ---
 
-📧 Email: contacto@organizacion.com
-
-🌐 Sitio web: www.organizacion.com
-
-🔗 LinkedIn: linkedin.com/organizacion
-
----
-
 ![Logo de la Organización](https://example.com/logo.png)
 
 <picture>
@@ -37,16 +29,3 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
----
-
-## Colores y Texto
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#4285f4">G</text>
-    <text x="12" y="15" fill="#ea4335">o</text>
-    <text x="21" y="15" fill="#fbbc05">o</text>
-    <text x="30" y="15" fill="#4285f4">g</text>
-    <text x="40" y="15" fill="#389738">l</text>
-    <text x="45" y="15" fill="#ea4335">e</text>
-</svg>
