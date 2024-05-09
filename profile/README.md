@@ -25,7 +25,7 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
 <footer>
   <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="width: 25%;">
-      <img src="https://holbertonschool.uy/wp-content/themes/holberton/assets/img/logo.png" alt="Holberton Logo" style="width: 100px;">
+      <img src="https://apply.holbertonschool.com/?country=co" alt="Holberton Logo" style="width: 100px;">
     </div>
     <div style="width: 50%; text-align: center;">
       <img src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Experis Logo" style="width: 150px;">
