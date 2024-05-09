@@ -2,11 +2,11 @@
 
 ## About us
 
-RelIT is an organization created for the purpose of working on Holberton School's final project. We embarked on this adventure with the ManpowerGroup company Experis, joining forces to develop innovative and effective solutions.
+RelIT is an organization created for the purpose of working on Holberton School's final project. We have embarked on this adventure with Experis, a ManpowerGroup company, joining forces to develop innovative and effective solutions.
 
 ## Our team
 
-We are made up of 8 dedicated members committed to this project. Each of us brings unique skills and experiences to the table, working together to achieve our goals.
+We are a group made up of 8 dedicated members committed to this project. Each of us brings unique skills and experiences to the table, working together to achieve our goals.
 
 ## Mission
 
