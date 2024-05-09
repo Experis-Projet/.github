@@ -22,12 +22,13 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
 
 ---
 
-
-![Logo de RelIT](https://example.com/logo.png)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
+<footer>
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="width: 25%;">
+      <img src="https://holbertonschool.uy/wp-content/themes/holberton/assets/img/logo.png" alt="Holberton Logo" style="width: 100px;">
+    </div>
+    <div style="width: 50%; text-align: center;">
+      <img src="https://www.experis.com.uy/wps/portal/experis/v3/uy/inicio" alt="Experis Logo" style="width: 150px;">
+    </div>
+  </div>
+</footer>
