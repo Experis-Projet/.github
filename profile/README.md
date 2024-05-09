@@ -24,8 +24,9 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
 
 ## Footer
 
-<img src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Logo Derecha" width="150">
+<img align="left" src="https://reqlut2.s3.amazonaws.com/uploads/logos/1f2e71f6359d5e56cb8fba58e807378d34218812-5242880.png" alt="Logo Derecha" width="150">
 
-<img src="https://mobicheckin-assets.s3.amazonaws.com/uploads/events/627ba44cbf9714087cd036d4/guests/avatars/medium_fit_W0YRZDJ_Holberton_School_Logo_cherry-2048x2048-ae00118__1_.png" alt="Logo Izquierda" width="150">
+<img align="right" src="https://mobicheckin-assets.s3.amazonaws.com/uploads/events/627ba44cbf9714087cd036d4/guests/avatars/medium_fit_W0YRZDJ_Holberton_School_Logo_cherry-2048x2048-ae00118__1_.png" alt="Logo Izquierda" width="150">
+
 
 
