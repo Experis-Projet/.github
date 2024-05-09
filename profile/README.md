@@ -23,7 +23,7 @@ Si estás interesado en unirte a nosotros o simplemente quieres saber más sobre
 ---
 
 <footer>
-  <div style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="display: flex; width: 100%;">
     <div style="width: 25%;">
       <img src="https://mobicheckin-assets.s3.amazonaws.com/uploads/events/627ba44cbf9714087cd036d4/guests/avatars/medium_fit_W0YRZDJ_Holberton_School_Logo_cherry-2048x2048-ae00118__1_.png" alt="Holberton Logo" style="width: 150px;">
     </div>
